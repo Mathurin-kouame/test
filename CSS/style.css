@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 80%;
+}
+
+header .Logo{
+    padding-left: 80px;
+}
+
+header nav{
+    display: flex;
+}
+
+header nav a{
+    color: rgb(17, 13, 13);
+    text-transform: none;
+    margin: 20px;
+    
+}
+
+.onglets{
+    margin-right: 15px;
+}
+
+header .typeOrder{
+    float: right;
+}
+
+.diffImg a{
+    color: #fff;
+    float: left;
+
+}
+header .paragraphe{
+    color: #fff;
+}
+
+
+
